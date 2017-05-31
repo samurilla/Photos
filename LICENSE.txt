@@ -1,3 +1,6 @@
+Crags.png is provided under the Creative Commons Attribution Share Alike 4.0 license, provided by Garrett Bigart.
+
+
 Attribution-ShareAlike 4.0 International
 
 =======================================================================
@@ -425,3 +428,4 @@ the avoidance of doubt, this paragraph does not form part of the
 public licenses.
 
 Creative Commons may be contacted at creativecommons.org.
+Contact GitHub API Training Shop Blog About
